@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-<div align="center">
-  [![keyboarddabbler.com](https://res.cloudinary.com/dpub6gcei/image/upload/v1681099937/keyboardDabbler/cover_vezno6.png)](https://keyboarddabbler.com)
-</div>
+<p align="center">
+  <a href="https://keyboarddabbler.com">
+    <img src="https://res.cloudinary.com/dpub6gcei/image/upload/v1681099937/keyboardDabbler/cover_vezno6.png" alt="keyboarddabbler.com"/>
+  </a>
+</p>
