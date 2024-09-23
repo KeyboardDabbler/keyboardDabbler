@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **KeyboardDabbler/keyboardDabbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <samp>
+    <a href="https://www.keyboarddabbler.com">Blog</a> .
+    <a href="https://github.com/KeyboardDabbler/pythonesque-cluster">k8s@home</a>
+  </samp>
+</p>
+
+<div align="center">
+  [![keyboarddabbler.com](https://res.cloudinary.com/dpub6gcei/image/upload/v1681099937/keyboardDabbler/cover_vezno6.png)](https://keyboarddabbler.com)
+</div>
